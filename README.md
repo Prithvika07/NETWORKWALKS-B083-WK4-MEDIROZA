@@ -176,3 +176,11 @@ I will continue improving my cybersecurity knowledge through authorized training
 This project is documented for educational purposes. Testing should only be performed on systems for which explicit permission has been granted.
 
 No confidential database records, patient information, passwords, secret hashes, or other sensitive information should be included in this public repository.
+
+## Author
+
+**Prithvika S.**
+
+- LinkedIn: https://www.linkedin.com/in/prithvikas07/
+
+Cybersecurity student interested in penetration testing, ethical hacking, and information security.
